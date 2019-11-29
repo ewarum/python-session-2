@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "5bf1d32f0e628f28ad04ff68",
+    "index": 0,
+    "guid": "e03eac84-d07c-4c31-8b84-2d91372a7b01",
+    "isActive": false,
+    "balance": "$2,133.37",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Liz Bridges",
+    "gender": "female",
+    "company": "KINETICA",
+    "email": "lizbridges@kinetica.com",
+    "phone": "+1 (893) 449-3494",
+    "address": "114 Erasmus Street, Whitmer, North Dakota, 7222",
+    "about": "Commodo officia Lorem esse consectetur deserunt ullamco proident nisi. Amet mollit culpa sit adipisicing. Anim enim ipsum cupidatat Lorem proident ea in.\r\n",
+    "registered": "2018-04-03T03:36:04 -02:00",
+    "latitude": 61.108607,
+    "longitude": -163.110449,
+    "tags": [
+      "eiusmod",
+      "ad",
+      "tempor",
+      "eu",
+      "laboris",
+      "reprehenderit",
+      "anim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rachelle Bernard"
+      },
+      {
+        "id": 1,
+        "name": "Alice Bates"
+      },
+      {
+        "id": 2,
+        "name": "Mcdowell Brock"
+      }
+    ],
+    "greeting": "Hello, Liz Bridges! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5bf1d32f3d36772f3dbc7717",
+    "index": 1,
+    "guid": "8120aea2-ea72-4850-8d61-5b3da2586e50",
+    "isActive": false,
+    "balance": "$3,307.00",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Hale Sharpe",
+    "gender": "male",
+    "company": "QUONK",
+    "email": "halesharpe@quonk.com",
+    "phone": "+1 (998) 457-3202",
+    "address": "689 Kermit Place, Trexlertown, Montana, 7729",
+    "about": "Officia sint commodo exercitation ipsum consequat aute exercitation. Adipisicing duis id Lorem aute veniam adipisicing ullamco. Fugiat pariatur ea amet nulla culpa deserunt aliquip ad qui cillum ea quis laborum. Lorem minim do ex aliquip duis aute.\r\n",
+    "registered": "2016-12-18T04:04:50 -01:00",
+    "latitude": -40.294071,
+    "longitude": -107.002137,
+    "tags": [
+      "et",
+      "tempor",
+      "consectetur",
+      "consectetur",
+      "elit",
+      "cillum",
+      "non"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Villarreal Griffith"
+      },
+      {
+        "id": 1,
+        "name": "Angelica Nielsen"
+      },
+      {
+        "id": 2,
+        "name": "Payne Payne"
+      }
+    ],
+    "greeting": "Hello, Hale Sharpe! You have 5 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5bf1d32f45fd38c0c471db59",
+    "index": 2,
+    "guid": "7a4ee7eb-381f-4375-91d8-d9726313738c",
+    "isActive": true,
+    "balance": "$3,577.09",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "green",
+    "name": "Powers Spence",
+    "gender": "male",
+    "company": "AMTAS",
+    "email": "powersspence@amtas.com",
+    "phone": "+1 (826) 545-3033",
+    "address": "470 Schermerhorn Street, Elliott, Michigan, 3285",
+    "about": "Qui ipsum do amet id et excepteur mollit. Adipisicing ullamco dolor esse commodo commodo et eu do consequat. Laboris dolor id Lorem do mollit eiusmod incididunt aliqua esse nulla non ipsum consectetur magna. Dolor nulla laborum quis amet quis do. Ad pariatur in exercitation do. Aliqua amet sit veniam adipisicing nisi cupidatat elit fugiat aliqua. Aliquip aliqua excepteur laborum consectetur et cupidatat ea.\r\n",
+    "registered": "2017-12-19T02:01:31 -01:00",
+    "latitude": -81.509145,
+    "longitude": -35.935305,
+    "tags": [
+      "quis",
+      "nulla",
+      "eiusmod",
+      "duis",
+      "duis",
+      "aliquip",
+      "sit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Nichole Weeks"
+      },
+      {
+        "id": 1,
+        "name": "Christy Hunt"
+      },
+      {
+        "id": 2,
+        "name": "Rush Carver"
+      }
+    ],
+    "greeting": "Hello, Powers Spence! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5bf1d32fb21da8b0a5d56658",
+    "index": 3,
+    "guid": "1467aef7-2f7b-48fc-afb1-261bb081ac1f",
+    "isActive": false,
+    "balance": "$1,674.43",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Carey West",
+    "gender": "male",
+    "company": "MACRONAUT",
+    "email": "careywest@macronaut.com",
+    "phone": "+1 (888) 443-2036",
+    "address": "152 Amherst Street, Jessie, Minnesota, 2247",
+    "about": "Quis velit sit adipisicing dolor dolore incididunt ipsum tempor. Reprehenderit minim veniam ad officia non enim. Reprehenderit laborum culpa deserunt sint ad id nulla adipisicing cupidatat nisi consectetur aute mollit aliqua. Nostrud ullamco labore sunt nostrud eu nisi elit qui fugiat id. Elit sunt voluptate duis cupidatat consectetur irure eu laborum laborum velit non culpa cillum. Quis culpa velit dolore aute duis.\r\n",
+    "registered": "2015-03-17T02:57:56 -01:00",
+    "latitude": -13.725013,
+    "longitude": 1.626635,
+    "tags": [
+      "dolor",
+      "incididunt",
+      "duis",
+      "in",
+      "et",
+      "aliquip",
+      "enim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wiley Conley"
+      },
+      {
+        "id": 1,
+        "name": "Cecile Huffman"
+      },
+      {
+        "id": 2,
+        "name": "Joy Tate"
+      }
+    ],
+    "greeting": "Hello, Carey West! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5bf1d32fdf78f687eaf98516",
+    "index": 4,
+    "guid": "e1a4bec6-2ca6-4d47-94fc-fb325687260b",
+    "isActive": false,
+    "balance": "$1,049.57",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Craig Skinner",
+    "gender": "male",
+    "company": "PREMIANT",
+    "email": "craigskinner@premiant.com",
+    "phone": "+1 (836) 470-3457",
+    "address": "923 Irvington Place, Eggertsville, North Carolina, 8097",
+    "about": "Quis ullamco excepteur et amet laborum dolor veniam. Ut cillum veniam occaecat amet adipisicing nostrud Lorem aliqua. Sint sit dolore duis minim. Exercitation voluptate qui reprehenderit veniam sit mollit laborum excepteur ullamco consequat nostrud ad.\r\n",
+    "registered": "2017-06-28T02:10:40 -02:00",
+    "latitude": -26.094217,
+    "longitude": -115.740391,
+    "tags": [
+      "deserunt",
+      "tempor",
+      "exercitation",
+      "exercitation",
+      "duis",
+      "aute",
+      "nulla"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Carole Small"
+      },
+      {
+        "id": 1,
+        "name": "Pansy Dudley"
+      },
+      {
+        "id": 2,
+        "name": "Hollie Lambert"
+      }
+    ],
+    "greeting": "Hello, Craig Skinner! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5bf1d32f8ea95f2489e2a6b7",
+    "index": 5,
+    "guid": "b02f3b4a-254b-4f82-9060-fbb06b148e93",
+    "isActive": false,
+    "balance": "$3,086.58",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "green",
+    "name": "Foster Heath",
+    "gender": "male",
+    "company": "ZILLAR",
+    "email": "fosterheath@zillar.com",
+    "phone": "+1 (907) 473-2684",
+    "address": "866 Sapphire Street, Hillsboro, Louisiana, 8351",
+    "about": "Labore do labore voluptate minim sit esse pariatur. Id reprehenderit nisi occaecat eiusmod dolor anim id exercitation Lorem anim. Excepteur Lorem ullamco quis mollit enim voluptate irure labore. Culpa laborum sint et enim ullamco labore nulla nostrud reprehenderit enim adipisicing. Cupidatat aute veniam ad officia aliqua culpa.\r\n",
+    "registered": "2014-02-09T10:37:49 -01:00",
+    "latitude": -12.097657,
+    "longitude": -113.601392,
+    "tags": [
+      "tempor",
+      "reprehenderit",
+      "velit",
+      "fugiat",
+      "laborum",
+      "reprehenderit",
+      "ad"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Autumn Gilbert"
+      },
+      {
+        "id": 1,
+        "name": "Laura Watkins"
+      },
+      {
+        "id": 2,
+        "name": "Adrian James"
+      }
+    ],
+    "greeting": "Hello, Foster Heath! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
